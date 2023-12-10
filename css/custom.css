@@ -1,0 +1,17 @@
+/* ! Remove this class when you see the success message */
+.remove-me {
+  background-color: #e5f9f4;
+  font-size: 2rem;
+  text-align: center;
+  color: #00c48d;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  border: 2px solid #00c48d;
+  position: fixed;
+  padding: 1.25rem;
+  top: 50%;
+  left: 50%;
+  width: 50vw;
+  box-shadow: 0px 16px 64px hsla(0, 0%, 0%, 0.2);
+  transform: translate(-50%, -50%);
+}
