@@ -1,6 +1,6 @@
 console.log("Webflow-Dev-Env is connected...");
 
-// Remove this function when you see the success message
+// [Open] Remove Me
 const removeMe = () => {
   const msgBlock = document.createElement("div");
   msgBlock.className = "remove-me";
@@ -9,3 +9,4 @@ const removeMe = () => {
   document.body.appendChild(msgBlock);
 };
 removeMe();
+// [Close] Remove Me
